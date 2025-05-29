@@ -1,0 +1,16 @@
+Month,Ticker,Sector,Asset Class,Quality Score,Value Score,Momentum Score
+2023-01,Stock1,Tech,CdnEquity,82.1,64.5,88.7
+2023-01,Stock2,Finance,CoreIncome,74.3,69.8,58.9
+2023-01,Stock3,Healthcare,UsEquity,87.5,63.2,75.0
+2023-01,Stock4,Energy,IntEquity,68.7,78.9,54.3
+2023-01,Stock5,Industrials,EnhancedIncome,67.0,70.5,62.1
+2023-02,Stock1,Tech,CdnEquity,84.0,66.7,89.3
+2023-02,Stock2,Finance,CoreIncome,75.5,70.1,60.2
+2023-02,Stock3,Healthcare,UsEquity,88.2,64.9,76.5
+2023-02,Stock4,Energy,IntEquity,69.9,79.5,55.1
+2023-02,Stock5,Industrials,EnhancedIncome,68.1,71.8,62.8
+2023-03,Stock1,Tech,CdnEquity,85.5,67.8,90.1
+2023-03,Stock2,Finance,CoreIncome,76.2,70.9,60.7
+2023-03,Stock3,Healthcare,UsEquity,88.8,65.6,77.0
+2023-03,Stock4,Energy,IntEquity,70.3,80.2,55.4
+2023-03,Stock5,Industrials,EnhancedIncome,69.0,72.4,63.2

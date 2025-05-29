@@ -1,0 +1,6 @@
+Ticker,Sector,Asset Class,Quality Score,Value Score,Momentum Score
+Stock1,Tech,CdnEquity,85.2,67.1,90.5
+Stock2,Finance,CoreIncome,75.0,70.3,60.4
+Stock3,Healthcare,UsEquity,88.0,65.4,77.2
+Stock4,Energy,IntEquity,70.5,80.1,55.6
+Stock5,Industrials,EnhancedIncome,68.9,72.3,63.4
